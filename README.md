@@ -1,1 +1,2 @@
 # PIT-RTU
+Projekta apraksts
